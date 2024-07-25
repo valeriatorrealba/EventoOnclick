@@ -14,14 +14,14 @@ A continuación, se muestra la imagen del resultado codificado:
 
 ![Resultado Codificado](assets/screenshot/codificado.png)
 
-## Contenido del Repositorio
+## Estructura del Proyecto
 
-- **index.html**: Contiene la estructura HTML de la página.
-- **assets/**
-  - **css/**
-    - **style.css**: Hoja de estilos para la página.
-  - **js/**
-    - **script.js**: Archivo JavaScript que contiene la funcionalidad interactiva de la página.
+El proyecto se compone de las siguientes secciones:
+
+- **Header**: Contiene el título de la página, un campo de búsqueda y un botón para iniciar sesión.
+- **Main**: Incluye dos secciones principales:
+  - **Section Izquierdo**:  Aquí se encuentran las secciones con definiciones de gatos y perros.
+  - **Aside Derecho**:  Contiene un mensaje sobre Petlopedia y un botón para agregar una definición.
 
 ## Funcionalidades Implementadas
 
@@ -37,5 +37,9 @@ A continuación, se muestra la imagen del resultado codificado:
 4. **Contador de Me gusta:**
    - Cada vez que se hace click en "Me gusta" de una definición, se incrementa el contador de Me gusta respectivo.
 
-## Visualización Local
+## Tecnologías Utilizadas
+- **HTML5**: Para la estructura del contenido.
+- **CSS3**: Para el diseño y estilizado de la página.
+- **JavaScript**: Para agregar interactividad y funcionalidades dinámicas a la página.
+
 
