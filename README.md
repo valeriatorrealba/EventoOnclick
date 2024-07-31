@@ -42,4 +42,8 @@ El proyecto se compone de las siguientes secciones:
 - **CSS3**: Para el diseño y estilizado de la página.
 - **JavaScript**: Para agregar interactividad y funcionalidades dinámicas a la página.
 
+## Autor
+
+Este proyecto fue desarrollado por **Valeria Torrealba**.
+
 
