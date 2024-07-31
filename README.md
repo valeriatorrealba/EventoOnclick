@@ -10,7 +10,7 @@ Aquí puedes ver la imagen del modelo que se utilizó como referencia:
 
 ## Vista Codificada
 
-A continuación, se muestra la imagen del resultado codificado:
+A continuación, se muestra la imagen del resultado obtenido:
 
 ![Resultado Codificado](assets/screenshot/codificado.png)
 
